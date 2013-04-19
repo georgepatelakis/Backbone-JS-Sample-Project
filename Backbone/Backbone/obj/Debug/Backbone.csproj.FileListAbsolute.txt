@@ -1,0 +1,7 @@
+C:\Backbone-JS-Sample-Project\Backbone\Backbone\bin\Backbone.dll
+C:\Backbone-JS-Sample-Project\Backbone\Backbone\bin\Backbone.pdb
+C:\Backbone-JS-Sample-Project\Backbone\Backbone\obj\Debug\Backbone.csprojResolveAssemblyReference.cache
+C:\Backbone-JS-Sample-Project\Backbone\Backbone\obj\Debug\Backbone.dll
+C:\Backbone-JS-Sample-Project\Backbone\Backbone\obj\Debug\Backbone.pdb
+C:\Backbone-JS-Sample-Project\Backbone\Backbone\bin\Newtonsoft.Json.dll
+C:\Backbone-JS-Sample-Project\Backbone\Backbone\bin\Newtonsoft.Json.xml

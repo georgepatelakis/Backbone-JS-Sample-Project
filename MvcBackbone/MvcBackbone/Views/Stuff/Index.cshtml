@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Backbone.js Todos</title>
+  <link rel="stylesheet" href="~/Content/todos.css"/>
+</head>
+
+<body>
+  
+  <div id="stuffapp">
+    
+    <header>
+      <h1>Stuff</h1>
+        <input id="new-stuff" type="text" placeholder="enter a name?">
+  
+    </header>
+
+    <section id="main">
+     <ul id="stuff-list"></ul>
+    </section>
+
+    <footer>
+     
+    </footer>
+    
+  </div>
+   
+  <script src="~/Scripts/json2.js"></script>
+  <script src="~/Scripts/jquery-1.7.1.js"></script>
+  <script src="~/Scripts/underscore.js"></script>
+  <script src="~/Scripts/backbone.js"></script>
+  <script src="~/Scripts/stuff.js"></script>
+
+  <!-- Templates -->
+
+   <script type="text/template" id="item-template"> 
+      <span><%- name %></span>
+      <span><a class="destroy"></a></span>
+  </script>
+
+  </body>
+</html>
